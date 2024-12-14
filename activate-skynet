@@ -1,0 +1,4 @@
+#!/bin/sh
+sleep 1
+./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET & ./SKYNET &
+btop

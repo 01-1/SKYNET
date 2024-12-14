@@ -1,0 +1,4 @@
+skynet:
+	neofetch
+	./activator
+
